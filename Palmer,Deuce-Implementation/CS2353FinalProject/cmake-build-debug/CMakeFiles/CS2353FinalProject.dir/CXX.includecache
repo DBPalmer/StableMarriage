@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/deucepalmer/CLionProjects/CS2353FinalProject/Element.h
+string
+-
+vector
+-
+list
+-
+
+/Users/deucepalmer/CLionProjects/CS2353FinalProject/SetOfElements.h
+Element.h
+/Users/deucepalmer/CLionProjects/CS2353FinalProject/Element.h
+string
+-
+vector
+-
+
+/Users/deucepalmer/CLionProjects/CS2353FinalProject/StableMatchSet.h
+SetOfElements.h
+/Users/deucepalmer/CLionProjects/CS2353FinalProject/SetOfElements.h
+string
+-
+vector
+-
+list
+-
+
+/Users/deucepalmer/CLionProjects/CS2353FinalProject/main.cpp
+Element.h
+/Users/deucepalmer/CLionProjects/CS2353FinalProject/Element.h
+SetOfElements.h
+/Users/deucepalmer/CLionProjects/CS2353FinalProject/SetOfElements.h
+StableMatchSet.h
+/Users/deucepalmer/CLionProjects/CS2353FinalProject/StableMatchSet.h
+iostream
+-
+fstream
+-
+

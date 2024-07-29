@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CS2353FinalProject"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CS2353FinalProject">
+				<Option output="/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/CS2353FinalProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 CS2353FinalProject"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CS2353FinalProject/fast">
+				<Option output="/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/CS2353FinalProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 CS2353FinalProject/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/deucepalmer/CLionProjects/CS2353FinalProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/deucepalmer/CLionProjects/CS2353FinalProject/Element.cpp">
+			<Option target="CS2353FinalProject"/>
+		</Unit>
+		<Unit filename="/Users/deucepalmer/CLionProjects/CS2353FinalProject/Element.h">
+			<Option target="CS2353FinalProject"/>
+		</Unit>
+		<Unit filename="/Users/deucepalmer/CLionProjects/CS2353FinalProject/SetOfElements.cpp">
+			<Option target="CS2353FinalProject"/>
+		</Unit>
+		<Unit filename="/Users/deucepalmer/CLionProjects/CS2353FinalProject/SetOfElements.h">
+			<Option target="CS2353FinalProject"/>
+		</Unit>
+		<Unit filename="/Users/deucepalmer/CLionProjects/CS2353FinalProject/StableMatchSet.cpp">
+			<Option target="CS2353FinalProject"/>
+		</Unit>
+		<Unit filename="/Users/deucepalmer/CLionProjects/CS2353FinalProject/StableMatchSet.h">
+			<Option target="CS2353FinalProject"/>
+		</Unit>
+		<Unit filename="/Users/deucepalmer/CLionProjects/CS2353FinalProject/main.cpp">
+			<Option target="CS2353FinalProject"/>
+		</Unit>
+		<Unit filename="/Users/deucepalmer/CLionProjects/CS2353FinalProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
